@@ -6,3 +6,5 @@ Here the basic structure of the game is provided (cards and player).
 A deck of shuffled cards can be created and dealt to the players.
 
 Further functionality, e.g. reizen is started.
+
+This was build mainly for the Skat Statistics.
